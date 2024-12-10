@@ -96,3 +96,7 @@ encrypt_file('data.txt', public_key)
 decrypt_file('encrypted_data.txt', private_key)
 sign_file('data.txt', private_key)
 verify_signature('data.txt', 'signature_data.txt', public_key)
+
+# "C:\Users\LENOVO\PycharmProjects\asymmetric encryption\.venv\Scripts\python.exe" "C:\Users\LENOVO\PycharmProjects\asymmetric encryption\main.py" 
+Signature is valid.
+Process finished with exit code 0
